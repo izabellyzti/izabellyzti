@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Fundo Gótico](https://github.com/[SEU_USERNAME]/[SEU_USERNAME]/blob/main/assets/2I6F(1).gif)
+![Fundo Gótico](https://github.com/[izabellyzti]/[izabellyzti]/blob/main/assets/2I6F(1).gif)
 
 ### 💀 **DESENVOLVEDOR DAS SOMBRAS DIGITAIS** 💀
 ### 🔮 **CONJURADOR DE CÓDIGO MÍSTICO** 🔮
@@ -17,7 +17,7 @@
 
 ## 👿 **SOBRE MIM** 😈
 
-Sou um desenvolvedor que habita nas fronteiras entre o mundo físico e digital, onde a antiga arte da bruxaria se funde com a moderna alquimia do código. Nas horas sombrias da madrugada, quando o mundo dorme, eu desperto para tecer feitiços em linguagens de programação, invocando aplicações que transcendem a realidade comum.
+Sou uma desenvolvedora que habita nas fronteiras entre o mundo físico e digital, onde a antiga arte da bruxaria se funde com a moderna alquimia do código. Nas horas sombrias da madrugada, quando o mundo dorme, eu desperto para tecer feitiços em linguagens de programação, invocando aplicações que transcendem a realidade comum.
 
 <div align="center">
 
